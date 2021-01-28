@@ -1,6 +1,6 @@
 <?php
 
-include('Worker/LoginKontrol.php');
+include('worker/LoginKontrol.php');
 $conf_file;
 
 $sql="SELECT id FROM admin ORDER BY id";
